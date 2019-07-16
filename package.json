@@ -29,9 +29,12 @@
     "react-dom": "^16.8.6",
     "react-draft-wysiwyg": "^1.13.2",
     "react-dropzone-component": "^3.2.0",
+    "react-html-parser": "^2.0.2",
     "react-modal": "^3.9.1",
     "react-router": "^5.0.1",
-    "react-router-dom": "^5.0.1"
+    "react-router-dom": "^5.0.1",
+    "react-truncate": "^2.4.0",
+    "striptags": "^3.1.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
